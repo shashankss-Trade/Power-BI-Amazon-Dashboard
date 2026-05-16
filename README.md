@@ -87,8 +87,15 @@ An interactive Power BI dashboard built to analyze Amazon E-commerce sales perfo
 
 ---
 
+# 📥 Power BI File
+
+[Download Dashboard (.pbix)](Amazon%20real%20project.pbix)
+
+---
+
 # 👨‍💻 Author
 
 **Shashank Sharma**  
 Aspiring Data Analyst | Power BI | SQL | Excel
 
+[LinkedIn Profile](https://www.linkedin.com/in/shashank-sharma-356b083b5/)
